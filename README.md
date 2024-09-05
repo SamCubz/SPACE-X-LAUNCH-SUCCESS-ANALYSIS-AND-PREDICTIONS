@@ -8,5 +8,5 @@
 - **Visualization**: Creates visualizations using libraries like Matplotlib and Seaborn to present the results effectively.
 - **Documentation**: Provides thorough documentation and explanations of the data science workflow and results.
 
-# There are many lines of code for this project, so I am only including the Dash Dashboard and the PowerPoint. 
+# There are many lines of code for this project, so I am only including the Dash Code and the PowerPoint. There are screenshots of the dash application on the PowerPoint, since I am unable to host the dash application on Github.
 
